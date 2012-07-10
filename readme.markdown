@@ -12,4 +12,6 @@ Every fright and thing fought in language compels one to build a trap, and every
 
 "All great artists, or designers, or so forth, are the masters of secrecy, sorcery, or so." -- We've heard this before. This is a readme.markdown document. It describes, or at least feigns that much, to that which does not, namely, this book, who in itself, feeling as quaintly and sorrowfully as I, its author, which must be written. It may touch on a number of topics, as it is an experiment, principle, hypothesis, and decision. I burrow, carelessly, in Alain Badiou's conceptual framework, and borrow fine the phenomonological flailing of Albert Camus. A tired Spinozist has little else, indeed in the letters of Americans. Grant me, surely, that you might tolerate a colored anarchist whose heroes are Steven Wright, Eddie Izzard, and David Spade.
 
+One day, even the audience, shall see the madness of authors: when we expect repositories for the production of their words.
+
 :: (Question 1)
