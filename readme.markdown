@@ -16,4 +16,3 @@ One day, even the audience, shall see the madness of authors: when we expect rep
 
 :: (Chapter 1)
 
-Let's say that this is chgaoter ibe, Abd U wabt ti srarr wrtuibg cgaorer ibe,
