@@ -1,6 +1,6 @@
 # Bablio
 
-Oy vey, the Structure of this Text (Question 0)
+Oy vey, the Structure of this Text (Chapter 0)
 
 On this day, writers shall be expected to carry with them a journal.
 
@@ -14,4 +14,4 @@ Every fright and thing fought in language compels one to build a trap, and every
 
 One day, even the audience, shall see the madness of authors: when we expect repositories for the production of their words.
 
-:: (Question 1)
+:: (Chapter 1)
